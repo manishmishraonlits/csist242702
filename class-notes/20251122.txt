@@ -1,0 +1,25 @@
+Word Processors - MS Word
+Spreadsheet
+
+Structured	-	RDBMS
+Unstructured	-	NoSQL
+
+OLAP = Online Analytical Processing
+OLTP = Online Transaction Processing
+
+SQL
+
+Roll No		Name	English	Maths
+
+Characteristics of a computer:
+1. Speed
+2. Accuracy
+3. Diligence 
+4. Versatility
+5. Storage
+6. Communication
+
+FILE *fp;
+fp = fopen("student_admission.dat","w");
+
+

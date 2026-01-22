@@ -1,0 +1,12 @@
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.xml
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.vbproj.AssemblyReference.cache
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.FrmMultiplicationTable.resources
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.Resources.resources
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.vbproj.GenerateResource.cache
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.vbproj.CoreCompileInputs.cache
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.xml
+C:\Users\manis\Batches\csist242702\vbnet\projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

@@ -1,0 +1,55 @@
+Library System
+
+Entities
+	Book
+	   Id (Key)
+	   Name
+	   Author
+	   Edition
+	   Publisher
+	   Price
+	   Category
+	   ISBN
+	   Pages
+	   Rating
+	   Language
+	Staff
+	   Id (Key)
+	   Name
+	   Gender
+	   Dob
+	   Doj
+	   Address
+	   Contact_no
+	   Email_id
+	   Educational_qualification
+	Patron (Member)
+	   Id (Key)
+	   Name
+	   Gender
+	   Dob
+	   Doj
+	   Address
+	   Contact_no
+	   Email_id
+	   Occupation
+	   Educational_qualification
+	Circulation
+	   Id (Key)
+	   Doi
+	   Edor
+	   Ador
+	   Fine
+
+Relationship
+Relationship Instance
+	   
+PBL: Project Based Learning
+
+SAD: System Analysis & Design
+
+1. Interview
+2. Onsite Observation
+3. Literature Review
+
+IEEE Documents
