@@ -25,12 +25,14 @@ Partial Class FrmMain
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.BookToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.EditToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MemberToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NewToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.EditToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.CirculationToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.UserToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem2 = New System.Windows.Forms.ToolStripSeparator()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -46,7 +48,7 @@ Partial Class FrmMain
         '
         'BookToolStripMenuItem
         '
-        Me.BookToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.NewToolStripMenuItem, Me.EditToolStripMenuItem})
+        Me.BookToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.NewToolStripMenuItem, Me.EditToolStripMenuItem, Me.ToolStripMenuItem2, Me.ToolStripMenuItem1})
         Me.BookToolStripMenuItem.Name = "BookToolStripMenuItem"
         Me.BookToolStripMenuItem.Size = New System.Drawing.Size(57, 24)
         Me.BookToolStripMenuItem.Text = "&Book"
@@ -56,6 +58,12 @@ Partial Class FrmMain
         Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
         Me.NewToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
         Me.NewToolStripMenuItem.Text = "&New"
+        '
+        'ToolStripMenuItem1
+        '
+        Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(224, 26)
+        Me.ToolStripMenuItem1.Text = "&View"
         '
         'EditToolStripMenuItem
         '
@@ -73,7 +81,7 @@ Partial Class FrmMain
         'NewToolStripMenuItem1
         '
         Me.NewToolStripMenuItem1.Name = "NewToolStripMenuItem1"
-        Me.NewToolStripMenuItem1.Size = New System.Drawing.Size(224, 26)
+        Me.NewToolStripMenuItem1.Size = New System.Drawing.Size(122, 26)
         Me.NewToolStripMenuItem1.Text = "&New"
         '
         'EditToolStripMenuItem1
@@ -93,6 +101,11 @@ Partial Class FrmMain
         Me.UserToolStripMenuItem.Name = "UserToolStripMenuItem"
         Me.UserToolStripMenuItem.Size = New System.Drawing.Size(52, 24)
         Me.UserToolStripMenuItem.Text = "&User"
+        '
+        'ToolStripMenuItem2
+        '
+        Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(221, 6)
         '
         'FrmMain
         '
@@ -121,4 +134,6 @@ Partial Class FrmMain
     Friend WithEvents EditToolStripMenuItem1 As ToolStripMenuItem
     Friend WithEvents CirculationToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents UserToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem2 As ToolStripSeparator
 End Class
